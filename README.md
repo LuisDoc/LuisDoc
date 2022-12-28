@@ -1,11 +1,5 @@
 <h2 align="left">Hello, I'am Luis</h2>
 
-###
-
-<img src="https://raw.githubusercontent.com/LuisDoc/LuisDoc/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="30" width="42" alt="embeddedc logo"  />
